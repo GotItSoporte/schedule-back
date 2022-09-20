@@ -3,7 +3,7 @@
 Esta Aplicación
 
  - Es el Back-end de la aplicación de soporte de GOT IT MOVING IDEAS SAS
- - Esta desplegada funcionando en [Heroku](https://www.heroku.com/) (Preguntar por credenciales)
+ - Esta desplegada funcionando en [Vercel](https://vercel.com/) (Preguntar por credenciales)
  - Funciona leyendo y actualizando una base de datos en [MongoDB](https://www.mongodb.com/) (Preguntar por credenciales) 
 
 
